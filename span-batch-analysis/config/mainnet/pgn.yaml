@@ -1,0 +1,5 @@
+start_l1_number: 18005000
+end_l1_number: 18025000
+batch_tx_sender: "0x99526b0e49a95833e734eb556a6abaffab0ee167"
+acc_l2_start_number: 2142000
+acc_l2_end_number: 2143000
